@@ -8,6 +8,7 @@ const productDetails = {
   display: 'flex'
 }
 
+
 const productText = {
   marginLeft: '2%'
 }

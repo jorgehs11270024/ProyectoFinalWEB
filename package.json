@@ -6,7 +6,7 @@
   "scripts": {
     "start": "webpack-dev-server --hot"
   },
-  "author": "Milton Catalan",
+  "author": "jorge horta",
   "license": "ISC",
   "dependencies": {
     "babel-core": "^6.26.3",

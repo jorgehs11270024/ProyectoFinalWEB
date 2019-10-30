@@ -4,6 +4,7 @@ import ShoppingCart from './shoppingCart.jsx';
 import ProductShow from './productShow.jsx';
 
 
+
 class BodyComponent extends React.Component{
     constructor(){
      super();
